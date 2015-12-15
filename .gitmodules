@@ -21,4 +21,4 @@
 	url = git://github.com/puppetlabs/puppetlabs-stdlib
 [submodule "puppet/modules/n98magerun"]
 	path = puppet/modules/n98magerun
-	url = git://github.com/cmuench/puppet-n98magerun
+	url = git@github.com:kidk/puppet-n98magerun.git
